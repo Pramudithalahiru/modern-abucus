@@ -1,0 +1,16 @@
+ body{
+    background-image: url(./assets/wallhaven-nr73rm.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    position: relative;
+ }
+
+ 
+ 
+
+ h1{
+    text-align: center;
+    color: aliceblue;
+ }
